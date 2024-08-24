@@ -1,6 +1,3 @@
-Here's a README template for your speech emotion detection project using the TESS dataset:
-
----
 
 # Speech Emotion Detection using TESS Dataset
 
